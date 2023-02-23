@@ -8,5 +8,8 @@ public class AtmApp {
         //version 4
         System.out.println("Giti öğrenmek çok kolay");
         System.out.println("hülya branchi yeni bir özellik ekledi");
+
+        //master
+        System.out.println("master branchinde yeni özellikler var");
     }
 }
