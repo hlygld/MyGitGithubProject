@@ -11,5 +11,7 @@ public class AtmApp {
 
         //master
         System.out.println("master branchinde yeni özellikler var");
+        //hly3
+        System.out.println("hülya branchi bir adım önde");
     }
 }
