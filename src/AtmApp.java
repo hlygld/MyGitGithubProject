@@ -14,6 +14,6 @@ public class AtmApp {
         //hly3
         System.out.println("hülya branchi bir adım önde");
         System.out.println("bazı değişiklikler yaptım ama commitlemedim");
-        System.out.println(" ");
+        System.out.println("yeni değişiklikler yaptım");
     }
 }
